@@ -1,71 +1,96 @@
 # Hi 👋 I'm Darshan Patel
 
-🚀 AI / ML Developer  
-💻 Python | FastAPI | Machine Learning | LLMs  
-📍 India  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Developer;Building+AI+Projects;Python+%7C+Machine+Learning+%7C+LLMs\&center=true\&width=500\&height=50)
+
+🚀 **AI / Machine Learning Developer**
+💻 Python | FastAPI | Machine Learning | LLMs
+📍 India
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🤖 Building AI applications using **LLMs and Machine Learning**
-- 🧠 Interested in **AI Automation, NLP, and Intelligent Systems**
-- 💡 Currently working on **AI-powered web applications**
-- 🎯 Goal: Become a strong **AI Engineer**
+* 🤖 Building AI-powered applications
+* 🧠 Interested in **Machine Learning, NLP, and LLM applications**
+* ⚡ Developing real-world AI systems with **FastAPI and Python**
+* 🎯 Goal: Become a strong **AI Engineer**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 ### Programming
-Python • JavaScript • HTML • CSS
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 
 ### AI / ML
-Machine Learning • NLP • LLMs • Whisper • Ollama
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-green?style=for-the-badge)
 
 ### Frameworks
-FastAPI • Flask • React
+
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 
 ### Tools
-Git • GitHub • VS Code • MongoDB
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 AI Meeting Notes Generator
-AI system that converts meeting audio or transcripts into structured notes using Whisper and Llama3.
+
+AI application that converts meeting audio or transcripts into structured notes using **Whisper Speech-to-Text and Llama3 (Ollama)**.
 
 ### 🎤 AI Resume Interviewer
-AI interviewer that asks questions and analyzes candidate responses.
+
+AI interviewer system that asks interview questions and evaluates candidate responses.
 
 ### 🏥 Disease Prediction System
-Machine learning model predicting diseases from symptoms.
+
+Machine learning model that predicts diseases from symptoms.
 
 ### 🏠 House Price Prediction
-ML model predicting real estate prices based on location and features.
+
+Machine learning model predicting real estate prices based on property features.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanPatel2006&show_icons=true&theme=tokyonight)
-
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPatel2006&layout=compact&theme=tokyonight)
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanPatel2006\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 Most Used Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshanPatel2006&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPatel2006\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-LinkedIn: [Linkdin Account ](https://www.linkedin.com/in/darshan-patel-6134a6358/)
-Email: pateldarshanp02@gmail.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshanPatel2006\&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+🌐 GitHub: https://github.com/DarshanPatel2006
+💼 LinkedIn: [(LinkedIn Account)](https://www.linkedin.com/in/darshan-patel-6134a6358/)
+📧 Email: pateldarshanp02@gmail.com
+
+---
+
+⭐ *Always learning, building, and improving AI systems.*
