@@ -10,29 +10,29 @@
 
 💡 AI / Machine Learning Developer passionate about building **AI-powered applications and intelligent systems**.
 
-I enjoy building practical tools using:
+I enjoy building real-world AI tools using:
 
 * Python
 * FastAPI
 * Machine Learning
 * Large Language Models
 
-🎯 My goal is to build **real-world AI systems that solve meaningful problems**.
+🎯 My goal is to build **powerful AI systems that solve real problems**.
 
 ---
 
 # 🧠 Current Focus
 
 ✔ AI-powered applications
-✔ LLM integrations
 ✔ Machine learning systems
+✔ LLM integrations
 ✔ AI automation tools
 
 ---
 
 # 🧰 Tech Stack
 
-## Programming Languages
+## Programming
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
@@ -58,7 +58,7 @@ I enjoy building practical tools using:
 
 ---
 
-## Tools & Technologies
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
@@ -69,27 +69,17 @@ I enjoy building practical tools using:
 
 # 🚀 Featured AI Projects
 
----
-
 ## 🤖 AI Meeting Notes Generator
 
-AI application that converts meeting audio or transcripts into structured notes.
+AI system that converts meeting audio into structured notes using Whisper and Llama3.
 
-Tech Used
+Available on GitHub
+https://github.com/DarshanPatel2006/AI-Meeting-Notes-Generator
 
-* Whisper Speech-to-Text
-* Llama3 (Ollama)
-* FastAPI backend
-* HTML / CSS / JavaScript frontend
-
-### Demo
-
-![Meeting Notes Demo](screenshots/generated_notes.png)
-
-### Features
+Features
 
 ✔ Upload meeting audio
-✔ AI transcription
+✔ Automatic transcription
 ✔ AI generated meeting notes
 ✔ Extract key points and action items
 
@@ -97,17 +87,16 @@ Tech Used
 
 ## 🎤 AI Resume Interviewer
 
-AI-powered system that simulates technical interviews.
+AI-powered interview system that simulates real technical interviews.
 
-### Demo
+Available on GitHub
+https://github.com/DarshanPatel2006/AI-Resume-Interviewer
 
-![Interview Demo](screenshots/interview_demo.png)
+Features
 
-### Features
-
-✔ AI generated questions
-✔ Candidate answer evaluation
-✔ Interview practice platform
+✔ AI generated interview questions
+✔ Candidate response analysis
+✔ Practice interview platform
 
 ---
 
@@ -115,11 +104,10 @@ AI-powered system that simulates technical interviews.
 
 Machine learning system predicting diseases from symptoms.
 
-### Demo
+Available on GitHub
+https://github.com/DarshanPatel2006/Disease-Prediction
 
-![Disease Prediction](screenshots/disease_prediction.png)
-
-### Features
+Features
 
 ✔ Symptom analysis
 ✔ ML prediction model
@@ -129,17 +117,16 @@ Machine learning system predicting diseases from symptoms.
 
 ## 🏠 House Price Prediction
 
-Machine learning model predicting real estate prices.
+Machine learning model predicting real estate prices based on features.
 
-### Demo
+Available on GitHub
+https://github.com/DarshanPatel2006/House-Price-Prediction
 
-![Price Prediction](screenshots/price_prediction.png)
-
-### Features
+Features
 
 ✔ Property feature analysis
 ✔ Price prediction model
-✔ Market insights
+✔ Real estate insights
 
 ---
 
