@@ -67,5 +67,5 @@ ML model predicting real estate prices based on location and features.
 
 ## 📫 Connect With Me
 
-LinkedIn: Coming soon  
-Email: Coming soon
+LinkedIn: [Linkdin Account ](https://www.linkedin.com/in/darshan-patel-6134a6358/)
+Email: pateldarshanp02@gmail.com
