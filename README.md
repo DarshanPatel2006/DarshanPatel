@@ -6,6 +6,13 @@
 
 ---
 
+# 🚀 Live Project
+
+🧠 Jeevixa – AI Healthcare Platform
+🔗 https://jeevixa.vercel.app/
+
+---
+
 # 🚀 About Me
 
 💡 AI / Machine Learning Developer passionate about building **AI-powered applications and intelligent systems**.
@@ -73,15 +80,12 @@ I enjoy building real-world AI tools using:
 
 AI system that converts meeting audio into structured notes using Whisper and Llama3.
 
-Available on GitHub
 https://github.com/DarshanPatel2006/AI-Meeting-Notes-Generator
-
-Features
 
 ✔ Upload meeting audio
 ✔ Automatic transcription
 ✔ AI generated meeting notes
-✔ Extract key points and action items
+✔ Extract key points
 
 ---
 
@@ -89,40 +93,33 @@ Features
 
 AI-powered interview system that simulates real technical interviews.
 
-Available on GitHub
 https://github.com/DarshanPatel2006/AI-Resume-Interviewer
-
-Features
 
 ✔ AI generated interview questions
 ✔ Candidate response analysis
-✔ Practice interview platform
+✔ Practice platform
 
 ---
 
-## 🏥 Disease Prediction System
+## 🧠 Jeevixa – AI Healthcare Platform (UPDATED)
 
-Machine learning system predicting diseases from symptoms.
+Full-stack AI healthcare system with ML prediction and dashboards.
 
-Available on GitHub
-https://github.com/DarshanPatel2006/Disease-Prediction
+https://github.com/DarshanPatel2006/LiveHealth
 
-Features
-
-✔ Symptom analysis
-✔ ML prediction model
-✔ Health suggestions
+✔ Disease prediction using ML model
+✔ Doctor & Patient dashboards
+✔ Appointment system
+✔ News + Weather integration
+✔ Full-stack (React + Django + MongoDB)
 
 ---
 
 ## 🏠 House Price Prediction
 
-Machine learning model predicting real estate prices based on features.
+Machine learning model predicting real estate prices.
 
-Available on GitHub
-https://github.com/DarshanPatel2006/House-Price-Prediction
-
-Features
+https://github.com/DarshanPatel2006/INDRAPRATHA
 
 ✔ Property feature analysis
 ✔ Price prediction model
@@ -166,10 +163,10 @@ GitHub
 https://github.com/DarshanPatel2006
 
 LinkedIn
-[(Linkdin Account)](https://www.linkedin.com/in/darshan-patel-6134a6358/)
+[Account Link](https://www.linkedin.com/in/darshan-patel-6134a6358/)
 
 Email
-pateldarshanp02@gmail.com
+[pateldarshanp02@gmail.com](mailto:pateldarshanp02@gmail.com)
 
 ---
 
