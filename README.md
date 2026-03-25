@@ -8,7 +8,7 @@
 
 # 🚀 Live Project
 
-🧠 Jeevixa – AI Healthcare Platform
+🧠 **Jeevixa – AI Healthcare Platform**
 🔗 https://jeevixa.vercel.app/
 
 ---
@@ -17,6 +17,8 @@
 
 💡 AI / Machine Learning Developer passionate about building **AI-powered applications and intelligent systems**.
 
+💻 Built and deployed **real-world AI applications with full-stack integration**.
+
 I enjoy building real-world AI tools using:
 
 * Python
@@ -24,7 +26,7 @@ I enjoy building real-world AI tools using:
 * Machine Learning
 * Large Language Models
 
-🎯 My goal is to build **powerful AI systems that solve real problems**.
+🎯 My goal is to build **powerful AI systems that solve real-world problems**.
 
 ---
 
@@ -84,7 +86,7 @@ https://github.com/DarshanPatel2006/AI-Meeting-Notes-Generator
 
 ✔ Upload meeting audio
 ✔ Automatic transcription
-✔ AI generated meeting notes
+✔ AI-generated meeting notes
 ✔ Extract key points
 
 ---
@@ -95,7 +97,7 @@ AI-powered interview system that simulates real technical interviews.
 
 https://github.com/DarshanPatel2006/AI-Resume-Interviewer
 
-✔ AI generated interview questions
+✔ AI-generated interview questions
 ✔ Candidate response analysis
 ✔ Practice platform
 
@@ -103,13 +105,13 @@ https://github.com/DarshanPatel2006/AI-Resume-Interviewer
 
 ## 🧠 Jeevixa – AI Healthcare Platform (UPDATED)
 
-Full-stack AI healthcare system with ML prediction and dashboards.
+Full-stack AI healthcare system with machine learning prediction and interactive dashboards.
 
 https://github.com/DarshanPatel2006/LiveHealth
 
 ✔ Disease prediction using ML model
 ✔ Doctor & Patient dashboards
-✔ Appointment system
+✔ Appointment management system
 ✔ News + Weather integration
 ✔ Full-stack (React + Django + MongoDB)
 
